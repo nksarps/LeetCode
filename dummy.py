@@ -1,15 +1,11 @@
 class Solution:
-    def majorityElement(self, nums):
+    def majorityElement(self, nums: List[int]) -> List[int]:
         nums.sort()
-        max_num = nums.count(nums[0])
-        for i in range(len(nums)):
-            n = nums.count(nums[i])
-            print(n, nums[i])
-            if n >= nums.count(nums[i-1]):
-                num = nums[i]
-        return num
-            
+        nums2 = []
+        for num in nums:
+            count = nums.count(num)
+            if count> len(nums) / 3 and num not in nums2:
+                nums2.append(num)
+        return nums2
 
-nums =[6,5,5]
-soln = Solution()
-print(soln.majorityElement(nums))
+        #MajorityElement2
