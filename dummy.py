@@ -1,11 +1,12 @@
-class Solution:
-    def majorityElement(self, nums: List[int]) -> List[int]:
-        nums.sort()
-        nums2 = []
-        for num in nums:
-            count = nums.count(num)
-            if count> len(nums) / 3 and num not in nums2:
-                nums2.append(num)
-        return nums2
-
-        #MajorityElement2
+s = "acb"
+t = "ahbgdc"
+n = len(s)
+count = 0
+letters = [x for x in s]
+for letter in letters:
+    if letter in t:
+        count += 1
+if count == n:
+    print(True)
+else:
+    print(False)
