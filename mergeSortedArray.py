@@ -8,4 +8,4 @@ class Solution:
             nums1.append(num)
         nums1.sort()
         
-# link to question, https://leetcode.com/problems/merge-sorted-array/submissions/
+# link to question, https://leetcode.com/problems/merge-sorted-array/
