@@ -1,7 +1,7 @@
 class Solution:
     def mostFrequentEven(self, nums: List[int]) -> int:
         even_count = 0
-        result = float('inf')  # Initialize result to positive infinity #2404
+        result = float('inf')  # Initialize result to positive infinity 
         for num in nums:
             if num % 2 == 0:
                 count = nums.count(num)
