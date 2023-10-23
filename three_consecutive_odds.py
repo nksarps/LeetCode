@@ -8,4 +8,4 @@ class Solution:
         return False
 
 
-# link to question, https://leetcode.com/problems/three-consecutive-odds/submissions/
+# link to question, https://leetcode.com/problems/three-consecutive-odds/
