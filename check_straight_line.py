@@ -16,4 +16,4 @@ class Solution:
                 return False
         return True
 
-# link to question, https://leetcode.com/problems/check-if-it-is-a-straight-line/
+# link to question, https://leetcode.com/problems/check-if-it-is-a-straight-line
