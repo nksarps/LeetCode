@@ -16,5 +16,4 @@ class Solution:
         
         return [count_nums1_in_nums2, count_nums2_in_nums1]
 
-
 # link to question, https://leetcode.com/problems/find-common-elements-between-two-arrays
