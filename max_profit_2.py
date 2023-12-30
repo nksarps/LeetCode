@@ -11,4 +11,4 @@ class Solution:
 
         return total_profit
 
-# link, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+# link to question, https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
