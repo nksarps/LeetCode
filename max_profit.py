@@ -12,4 +12,4 @@ class Solution:
 
         return max_profit
 
-# link, https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+# link to question, https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
