@@ -5,4 +5,4 @@ class Solution:
         missing_numbers = list(all_numbers - set(nums))
         return missing_numbers
 
-# link, https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+# link to question, https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
