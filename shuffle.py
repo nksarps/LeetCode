@@ -8,4 +8,4 @@ class Solution:
             start += 1
         return result
         
-# link to question, https://leetcode.com/problems/shuffle-the-array/
+# link to question, https://leetcode.com/problems/shuffle-the-array
