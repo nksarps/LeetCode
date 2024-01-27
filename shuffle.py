@@ -1,11 +1,11 @@
 class Solution:
     def shuffle(self, nums: List[int], n: int) -> List[int]:
-        start = 0
+        num = 0
         result = []
-        while start < n:
-            result.append(nums[start])
-            result.append(nums[start + n])
-            start += 1
+        while num < n:
+            result.append(nums[num])
+            result.append(nums[num + n])
+            num += 1
         return result
         
 # link to question, https://leetcode.com/problems/shuffle-the-array
