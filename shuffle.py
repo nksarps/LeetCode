@@ -7,5 +7,6 @@ class Solution:
             result.append(nums[num + n])
             num += 1
         return result
-        
+
+
 # link to question, https://leetcode.com/problems/shuffle-the-array
