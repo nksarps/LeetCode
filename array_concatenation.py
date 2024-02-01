@@ -8,4 +8,4 @@ class Solution:
             n += 1
         return ans
 
-# link to question, https://leetcode.com/problems/concatenation-of-array
+# link to question, https://leetcode.com/problems/concatenation-of-array/
