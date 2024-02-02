@@ -20,4 +20,4 @@ class Solution:
             n += 1
         return return_sentence
 
-# link to question, https://leetcode.com/problems/capitalize-the-title/
+# link to question, https://leetcode.com/problems/capitalize-the-title
