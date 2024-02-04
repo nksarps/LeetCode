@@ -8,4 +8,4 @@ class Solution:
             counter += 1
         return len(result)
         
-# link, https://leetcode.com/problems/minimize-string-length/
+# link, https://leetcode.com/problems/minimize-string-length
