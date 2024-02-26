@@ -13,4 +13,4 @@ class Solution:
         
         return even
         
-# link, https://leetcode.com/problems/sort-array-by-parity/
+# link, https://leetcode.com/problems/sort-array-by-parity
