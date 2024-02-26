@@ -9,8 +9,7 @@ class Solution:
                 odd.append(num)
         
         for num in odd:
-            even.append(num)
-        
+            even.append(num)    
         return even
         
 # link, https://leetcode.com/problems/sort-array-by-parity
