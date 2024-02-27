@@ -7,7 +7,6 @@ class Solution:
                 even.append(num)
             else:
                 odd.append(num)
-        
         for num in odd:
             even.append(num)    
         return even
