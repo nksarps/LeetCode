@@ -12,3 +12,5 @@ class Solution:
             return smallest_num
         else:
             return -1
+
+# link, https://leetcode.com/problems/smallest-index-with-equal-value/
