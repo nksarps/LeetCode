@@ -8,4 +8,5 @@ class Solution:
         else:
             return 1
 
-            
+
+# link, https://leetcode.com/problems/sign-of-the-product-of-an-array/
