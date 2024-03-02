@@ -9,4 +9,4 @@ class Solution:
             return 1
 
 
-# link, https://leetcode.com/problems/sign-of-the-product-of-an-array/
+# link, https://leetcode.com/problems/sign-of-the-product-of-an-array
