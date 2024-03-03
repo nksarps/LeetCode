@@ -7,3 +7,5 @@ class Solution:
                 count += 1
         
         return count
+
+# link, https://leetcode.com/problems/number-of-senior-citizens/
