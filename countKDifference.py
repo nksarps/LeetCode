@@ -6,3 +6,5 @@ class Solution:
                 if abs(nums[i] - nums[j]) == k:
                     count += 1
         return count
+
+# link, https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
