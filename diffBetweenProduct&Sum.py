@@ -10,3 +10,5 @@ class Solution:
             n //= 10
         
         return prod - sum
+
+# link, https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
