@@ -6,3 +6,4 @@ class Solution:
         binary = bin(sum_decimal)[2:]
         return binary
 
+# link
